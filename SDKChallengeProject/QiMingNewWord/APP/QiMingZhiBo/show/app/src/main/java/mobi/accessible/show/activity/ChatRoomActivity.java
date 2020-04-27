@@ -256,9 +256,9 @@ public class ChatRoomActivity extends AppCompatActivity implements ChatRoomEvent
         Map<String,Object> storageConfig = new HashMap<>();
         storageConfig.put("vendor",3);//第三方云存储供应商  腾讯云
         storageConfig.put("region",6);//AP_Shenzhen_FSI
-        storageConfig.put("bucket","qimingzhibo-1257465110");//第三方云存储的 bucket。
-        storageConfig.put("accessKey","AKIDw99sOfDowtZzJMMC5i49gxy53kBLw3bt");//第三方云存储的 access key。
-        storageConfig.put("secretKey","BOPBj64td7NUtCKaaT7aueHSgx7Ofqwn");//第三方云存储的 secret key。
+        storageConfig.put("bucket","qimxxxxxx");//第三方云存储的 bucket。
+        storageConfig.put("accessKey","xxxx");//第三方云存储的 access key。
+        storageConfig.put("secretKey","xxxx");//第三方云存储的 secret key。
         //由多个字符串组成的数组，指定录制文件在第三方云存储中的存储位置。
         // 举个例子，fileNamePrefix = ["directory1","directory2"]，
         // 将在录制文件名前加上前缀 "directory1/directory2/"，即 directory1/directory2/xxx.m3u8
