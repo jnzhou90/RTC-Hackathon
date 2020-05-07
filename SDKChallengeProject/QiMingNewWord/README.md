@@ -129,7 +129,7 @@
 关于如何生成 Token 或 Dynamic Key 详见 [Token](https://docs.agora.io/cn/2.2/product/Video/Agora%20Basics/key_native?platform=Android) 或 [Dynamic Key](https://docs.agora.io/cn/2.2/product/Video/Agora%20Basics/key_web?platform=Web)。
 
 ## 联系我们
-* 该该项目以公司（武汉网明无障碍科技有限公司）名义参赛，由成员WangLK1224、露露、zhoujn、fan7857410 完成。
+* 该该项目以公司（武汉网明无障碍科技有限公司）名义参赛，由成员WangLK1224（王陆坤）、露露（周胜男）、zhoujn（周江南）、fan7857410（樊洪涛） 完成。
 * 联系人QQ号：2205869488
 * 完整的 API 文档请参考 [开发者中心](http://docs.agora.io/cn/)
 * 如果在集成中遇到问题，你可以到 [开发者社区](https://dev.agora.io/cn/) 提问
